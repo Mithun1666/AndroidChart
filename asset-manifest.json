@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AndroidChart/static/css/main.fe13b01c.css",
+    "main.js": "/AndroidChart/static/js/main.148620b7.js",
+    "static/js/453.11b0ce6f.chunk.js": "/AndroidChart/static/js/453.11b0ce6f.chunk.js",
+    "index.html": "/AndroidChart/index.html",
+    "main.fe13b01c.css.map": "/AndroidChart/static/css/main.fe13b01c.css.map",
+    "main.148620b7.js.map": "/AndroidChart/static/js/main.148620b7.js.map",
+    "453.11b0ce6f.chunk.js.map": "/AndroidChart/static/js/453.11b0ce6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe13b01c.css",
+    "static/js/main.148620b7.js"
+  ]
+}
